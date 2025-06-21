@@ -78,9 +78,3 @@ Coming never:
 - `yt-dlp` for actually doing the hard part.
 - `tkinter` for the retro 90s desktop vibes.
 - You, for ignoring the millions of downloaders out there and choosing this beautiful beast.
-
----
-
-## 📜 License
-
-Do whatever you want with this. Just don't blame us when you download the wrong video in front of your boss.
